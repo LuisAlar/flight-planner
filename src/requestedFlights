@@ -1,0 +1,12 @@
+the data that will be given to the algorithm 
+the paths we want to find out if the "graphs has it "
+
+
+2
+Dallas|Houston|T
+Chicago|Dallas|C
+
+
+
+ In Figure 1, notice there is a cycle involving Chicago, Fresno, and Greensboro.
+  In a flight plan from city X to city Y, a particular city should appear no more than one time. 
