@@ -1,0 +1,4 @@
+3
+Dallas|las Vegas|T
+Chicago|Denver|C
+Austin|Seattle|T

@@ -1,5 +1,6 @@
 package main.domain;
 
-public class Metric {
-    
+public enum Metric {
+    TIME,
+    COST
 }
