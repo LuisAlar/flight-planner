@@ -1,0 +1,618 @@
+Year, city1                                  , city2                                  , nsmiles, fare
+2024, "Albuquerque, NM"                      , "Dallas/Fort Worth, TX"                ,     580, 199.37
+2024, "Albuquerque, NM"                      , "Phoenix, AZ"                          ,     328, 187.76
+2024, "Albuquerque, NM"                      , "Washington, DC (Metropolitan Area)"   ,    1670, 309.43
+2024, "Albuquerque, NM"                      , "Chicago, IL"                          ,    1121, 252.74
+2024, "Albuquerque, NM"                      , "Houston, TX"                          ,     759, 234.26
+2024, "Albuquerque, NM"                      , "New York City, NY (Metropolitan Area)",    1861, 387.96
+2024, "Albuquerque, NM"                      , "San Francisco, CA (Metropolitan Area)",     896, 231.27
+2024, "Albuquerque, NM"                      , "Los Angeles, CA (Metropolitan Area)"  ,     677, 209.01
+2024, "Atlantic City, NJ"                    , "Miami, FL (Metropolitan Area)"        ,     998, 103.9
+2024, "Colorado Springs, CO"                 , "Dallas/Fort Worth, TX"                ,     602, 164.42
+2024, "Colorado Springs, CO"                 , "Phoenix, AZ"                          ,     551, 169.3
+2024, "Colorado Springs, CO"                 , "Los Angeles, CA (Metropolitan Area)"  ,     833, 171.34
+2024, "Dallas/Fort Worth, TX"                , "Pittsburgh, PA"                       ,    1067, 224.91
+2024, "Dallas/Fort Worth, TX"                , "Denver, CO"                           ,     651, 163.48
+2024, "Dallas/Fort Worth, TX"                , "Tucson, AZ"                           ,     824, 234.66
+2024, "Dallas/Fort Worth, TX"                , "Phoenix, AZ"                          ,     879, 207.6
+2024, "Dallas/Fort Worth, TX"                , "Hartford, CT"                         ,    1471, 277.13
+2024, "Dallas/Fort Worth, TX"                , "Seattle, WA"                          ,    1670, 234.54
+2024, "Dallas/Fort Worth, TX"                , "El Paso, TX"                          ,     562, 187.17
+2024, "Dallas/Fort Worth, TX"                , "Nashville, TN"                        ,     631, 213.38
+2024, "Dallas/Fort Worth, TX"                , "Washington, DC (Metropolitan Area)"   ,    1217, 213.97
+2024, "Dallas/Fort Worth, TX"                , "St. Louis, MO"                        ,     550, 213.63
+2024, "Dallas/Fort Worth, TX"                , "Jacksonville, FL"                     ,     918, 238.98
+2024, "Dallas/Fort Worth, TX"                , "Detroit, MI"                          ,     986, 244.15
+2024, "Dallas/Fort Worth, TX"                , "Des Moines, IA"                       ,     624, 207.58
+2024, "Dallas/Fort Worth, TX"                , "Houston, TX"                          ,     247, 187.27
+2024, "Dallas/Fort Worth, TX"                , "Orlando, FL"                          ,     985, 202.55
+2024, "Dallas/Fort Worth, TX"                , "Valparaiso, FL"                       ,     641, 213.52
+2024, "Dallas/Fort Worth, TX"                , "Minneapolis/St. Paul, MN"             ,     853, 239.8
+2024, "Dallas/Fort Worth, TX"                , "New York City, NY (Metropolitan Area)",    1428, 273.9
+2024, "Dallas/Fort Worth, TX"                , "Fort Myers, FL"                       ,    1017, 256.28
+2024, "Dallas/Fort Worth, TX"                , "Greenville/Spartanburg, SC"           ,     862, 230.13
+2024, "Dallas/Fort Worth, TX"                , "Grand Rapids, MI"                     ,     931, 238.46
+2024, "Dallas/Fort Worth, TX"                , "Las Vegas, NV"                        ,    1067, 222.12
+2024, "Dallas/Fort Worth, TX"                , "Indianapolis, IN"                     ,     761, 214.6
+2024, "Dallas/Fort Worth, TX"                , "San Francisco, CA (Metropolitan Area)",    1476, 201.34
+2024, "Dallas/Fort Worth, TX"                , "Miami, FL (Metropolitan Area)"        ,    1121, 214.44
+2024, "Boise, ID"                            , "Phoenix, AZ"                          ,     749, 100.34
+2024, "Dallas/Fort Worth, TX"                , "Los Angeles, CA (Metropolitan Area)"  ,    1246, 227.7
+2024, "Dallas/Fort Worth, TX"                , "Little Rock, AR"                      ,     304, 169.4
+2024, "Dallas/Fort Worth, TX"                , "Lubbock, TX"                          ,     293, 172.62
+2024, "Dallas/Fort Worth, TX"                , "Louisville, KY"                       ,     733, 207.14
+2024, "Dallas/Fort Worth, TX"                , "Midland/Odessa, TX"                   ,     319, 196.65
+2024, "Dallas/Fort Worth, TX"                , "Sacramento, CA"                       ,    1442, 272.08
+2024, "Dallas/Fort Worth, TX"                , "Tampa, FL (Metropolitan Area)"        ,     929, 188.55
+2024, "Dallas/Fort Worth, TX"                , "Kansas City, MO"                      ,     461, 176.96
+2024, "Dallas/Fort Worth, TX"                , "San Antonio, TX"                      ,     247, 191.75
+2024, "Dallas/Fort Worth, TX"                , "Memphis, TN"                          ,     431, 180.04
+2024, "Dallas/Fort Worth, TX"                , "Omaha, NE"                            ,     586, 197.51
+2024, "Dallas/Fort Worth, TX"                , "Milwaukee, WI"                        ,     853, 207.67
+2024, "Dallas/Fort Worth, TX"                , "New Orleans, LA"                      ,     447, 178.3
+2024, "Dallas/Fort Worth, TX"                , "San Diego, CA"                        ,    1182, 217.62
+2024, "Dallas/Fort Worth, TX"                , "Norfolk, VA (Metropolitan Area)"      ,    1212, 237.51
+2024, "Dallas/Fort Worth, TX"                , "Pensacola, FL"                        ,     604, 200.41
+2024, "Dallas/Fort Worth, TX"                , "West Palm Beach/Palm Beach, FL"       ,    1102, 247.58
+2024, "Dallas/Fort Worth, TX"                , "Portland, OR"                         ,    1626, 267.46
+2024, "Dallas/Fort Worth, TX"                , "Philadelphia, PA"                     ,    1303, 256.87
+2024, "Dallas/Fort Worth, TX"                , "Palm Springs, CA"                     ,    1137, 242.51
+2024, "Dallas/Fort Worth, TX"                , "Raleigh/Durham, NC"                   ,    1061, 218.65
+2024, "Dallas/Fort Worth, TX"                , "Richmond, VA"                         ,    1158, 275.97
+2024, "Dallas/Fort Worth, TX"                , "Reno, NV"                             ,    1356, 260.44
+2024, "Dallas/Fort Worth, TX"                , "Salt Lake City, UT"                   ,     999, 240.48
+2024, "Dallas/Fort Worth, TX"                , "Tulsa, OK"                            ,     238, 190.14
+2024, "Dallas/Fort Worth, TX"                , "Savannah, GA"                         ,     925, 236.46
+2024, "Dallas/Fort Worth, TX"                , "Knoxville, TN"                        ,     772, 436.67
+2024, "Pittsburgh, PA"                       , "Washington, DC (Metropolitan Area)"   ,     210, 198.86
+2024, "Pittsburgh, PA"                       , "San Francisco, CA (Metropolitan Area)",    2254, 222.41
+2024, "Pittsburgh, PA"                       , "Tampa, FL (Metropolitan Area)"        ,     878,  93.43
+2024, "Huntsville, AL"                       , "Washington, DC (Metropolitan Area)"   ,     641, 306.18
+2024, "Albany, NY"                           , "Washington, DC (Metropolitan Area)"   ,     325, 212.84
+2024, "Albany, NY"                           , "Chicago, IL"                          ,     723, 202.17
+2024, "Albany, NY"                           , "Miami, FL (Metropolitan Area)"        ,    1225, 204.33
+2024, "Albany, NY"                           , "Tampa, FL (Metropolitan Area)"        ,    1138, 123.79
+2024, "Amarillo, TX"                         , "Dallas/Fort Worth, TX"                ,     323, 168.52
+2024, "Denver, CO"                           , "Phoenix, AZ"                          ,     602, 179.3
+2024, "Denver, CO"                           , "Washington, DC (Metropolitan Area)"   ,    1491, 258.66
+2024, "Denver, CO"                           , "Houston, TX"                          ,     883, 177.99
+2024, "Denver, CO"                           , "New York City, NY (Metropolitan Area)",    1659, 303.86
+2024, "Denver, CO"                           , "San Francisco, CA (Metropolitan Area)",     967, 227.38
+2024, "Denver, CO"                           , "Miami, FL (Metropolitan Area)"        ,    1709, 287.58
+2024, "Denver, CO"                           , "Los Angeles, CA (Metropolitan Area)"  ,     862, 201.8
+2024, "Denver, CO"                           , "Tampa, FL (Metropolitan Area)"        ,    1506, 215.38
+2024, "Denver, CO"                           , "Norfolk, VA (Metropolitan Area)"      ,    1553, 266.62
+2024, "Aspen, CO"                            , "New York City, NY (Metropolitan Area)",    1750, 680.71
+2024, "Aspen, CO"                            , "Los Angeles, CA (Metropolitan Area)"  ,     737, 394.78
+2024, "Atlanta, GA (Metropolitan Area)"      , "Dallas/Fort Worth, TX"                ,     731, 218.21
+2024, "Atlanta, GA (Metropolitan Area)"      , "Phoenix, AZ"                          ,    1587, 326.35
+2024, "Atlanta, GA (Metropolitan Area)"      , "Cleveland, OH (Metropolitan Area)"    ,     554, 259.4
+2024, "Atlanta, GA (Metropolitan Area)"      , "Boston, MA (Metropolitan Area)"       ,     952, 253.94
+2024, "Atlanta, GA (Metropolitan Area)"      , "Washington, DC (Metropolitan Area)"   ,     577, 172.32
+2024, "Atlanta, GA (Metropolitan Area)"      , "Chicago, IL"                          ,     606, 170.22
+2024, "Atlanta, GA (Metropolitan Area)"      , "Columbus, OH"                         ,     447, 218.33
+2024, "Atlanta, GA (Metropolitan Area)"      , "Houston, TX"                          ,     696, 203.37
+2024, "Atlanta, GA (Metropolitan Area)"      , "New York City, NY (Metropolitan Area)",     795, 189.63
+2024, "Atlanta, GA (Metropolitan Area)"      , "San Francisco, CA (Metropolitan Area)",    2139, 254.49
+2024, "Atlanta, GA (Metropolitan Area)"      , "Miami, FL (Metropolitan Area)"        ,     594, 153.27
+2024, "Atlanta, GA (Metropolitan Area)"      , "Los Angeles, CA (Metropolitan Area)"  ,    1947, 322.27
+2024, "Atlanta, GA (Metropolitan Area)"      , "Tampa, FL (Metropolitan Area)"        ,     406, 197.07
+2024, "Atlanta, GA (Metropolitan Area)"      , "Norfolk, VA (Metropolitan Area)"      ,     516, 289.79
+2024, "Appleton, WI"                         , "Phoenix, AZ"                          ,    1463, 168.3
+2024, "Austin, TX"                           , "Dallas/Fort Worth, TX"                ,     190, 196.4
+2024, "Austin, TX"                           , "Phoenix, AZ"                          ,     872, 246.04
+2024, "Austin, TX"                           , "Boston, MA (Metropolitan Area)"       ,    1698, 238.61
+2024, "Austin, TX"                           , "Washington, DC (Metropolitan Area)"   ,    1342, 252.96
+2024, "Austin, TX"                           , "Chicago, IL"                          ,     977, 205.93
+2024, "Austin, TX"                           , "Columbus, OH"                         ,    1073, 258.77
+2024, "Austin, TX"                           , "New York City, NY (Metropolitan Area)",    1559, 272.43
+2024, "Austin, TX"                           , "San Francisco, CA (Metropolitan Area)",    1504, 243.58
+2024, "Austin, TX"                           , "Miami, FL (Metropolitan Area)"        ,    1105, 174.05
+2024, "Austin, TX"                           , "Los Angeles, CA (Metropolitan Area)"  ,    1242, 234.08
+2024, "Austin, TX"                           , "Tampa, FL (Metropolitan Area)"        ,     928, 233.69
+2024, "Asheville, NC"                        , "New York City, NY (Metropolitan Area)",     617, 168.39
+2024, "Asheville, NC"                        , "Miami, FL (Metropolitan Area)"        ,     677, 106.73
+2024, "Chicago, IL"                          , "Key West, FL"                         ,    1251, 434.0
+2024, "Tucson, AZ"                           , "Washington, DC (Metropolitan Area)"   ,    1976, 345.48
+2024, "Phoenix, AZ"                          , "Pittsburgh, PA"                       ,    1814, 318.1
+2024, "Phoenix, AZ"                          , "Seattle, WA"                          ,    1107, 203.63
+2024, "Phoenix, AZ"                          , "Washington, DC (Metropolitan Area)"   ,    1999, 305.24
+2024, "Phoenix, AZ"                          , "St. Louis, MO"                        ,    1262, 275.48
+2024, "Phoenix, AZ"                          , "Sioux Falls, SD"                      ,    1081, 137.57
+2024, "Phoenix, AZ"                          , "Spokane, WA"                          ,    1034,  97.71
+2024, "Phoenix, AZ"                          , "San Francisco, CA (Metropolitan Area)",     651, 161.23
+2024, "Phoenix, AZ"                          , "Sacramento, CA"                       ,     647, 217.4
+2024, "Phoenix, AZ"                          , "Tampa, FL (Metropolitan Area)"        ,    1788, 313.49
+2024, "Phoenix, AZ"                          , "San Antonio, TX"                      ,     843, 238.74
+2024, "Phoenix, AZ"                          , "San Diego, CA"                        ,     304, 177.07
+2024, "Phoenix, AZ"                          , "Portland, OR"                         ,    1028, 100.05
+2024, "Phoenix, AZ"                          , "Provo, UT"                            ,     477,  86.1
+2024, "Phoenix, AZ"                          , "Raleigh/Durham, NC"                   ,    1891, 341.28
+2024, "Phoenix, AZ"                          , "Richmond, VA"                         ,    1965, 283.61
+2024, "Phoenix, AZ"                          , "Reno, NV"                             ,     601, 221.13
+2024, "Phoenix, AZ"                          , "Salt Lake City, UT"                   ,     507, 197.82
+2024, "Phoenix, AZ"                          , "Tulsa, OK"                            ,     935, 249.89
+2024, "Hartford, CT"                         , "Phoenix, AZ"                          ,    2213, 252.05
+2024, "Hartford, CT"                         , "Washington, DC (Metropolitan Area)"   ,     325, 211.65
+2024, "Hartford, CT"                         , "Miami, FL (Metropolitan Area)"        ,    1194, 175.56
+2024, "Hartford, CT"                         , "Los Angeles, CA (Metropolitan Area)"  ,    2527, 389.53
+2024, "Hartford, CT"                         , "Tampa, FL (Metropolitan Area)"        ,    1111, 171.64
+2024, "Seattle, WA"                          , "Washington, DC (Metropolitan Area)"   ,    2335, 283.64
+2024, "Seattle, WA"                          , "Tampa, FL (Metropolitan Area)"        ,    2520, 288.73
+2024, "Birmingham, AL"                       , "Dallas/Fort Worth, TX"                ,     597, 208.1
+2024, "Birmingham, AL"                       , "Washington, DC (Metropolitan Area)"   ,     682, 227.31
+2024, "Birmingham, AL"                       , "Chicago, IL"                          ,     584, 199.88
+2024, "Birmingham, AL"                       , "Houston, TX"                          ,     570, 205.41
+2024, "Birmingham, AL"                       , "New York City, NY (Metropolitan Area)",     902, 287.38
+2024, "Birmingham, AL"                       , "Tampa, FL (Metropolitan Area)"        ,     459, 213.88
+2024, "El Paso, TX"                          , "Phoenix, AZ"                          ,     347, 193.41
+2024, "El Paso, TX"                          , "Washington, DC (Metropolitan Area)"   ,    1741, 367.26
+2024, "El Paso, TX"                          , "Houston, TX"                          ,     677, 189.99
+2024, "El Paso, TX"                          , "New York City, NY (Metropolitan Area)",    1944, 462.37
+2024, "El Paso, TX"                          , "Los Angeles, CA (Metropolitan Area)"  ,     715, 249.34
+2024, "Bismarck/Mandan, ND"                  , "Phoenix, AZ"                          ,    1094, 149.71
+2024, "Cleveland, OH (Metropolitan Area)"    , "Dallas/Fort Worth, TX"                ,    1023, 343.38
+2024, "Cleveland, OH (Metropolitan Area)"    , "Denver, CO"                           ,    1224, 325.62
+2024, "Cleveland, OH (Metropolitan Area)"    , "Phoenix, AZ"                          ,    1754, 334.5
+2024, "Cleveland, OH (Metropolitan Area)"    , "Nashville, TN"                        ,     448, 136.19
+2024, "Cleveland, OH (Metropolitan Area)"    , "Washington, DC (Metropolitan Area)"   ,     314, 197.64
+2024, "Cleveland, OH (Metropolitan Area)"    , "Houston, TX"                          ,    1106, 535.5
+2024, "Cleveland, OH (Metropolitan Area)"    , "Orlando, FL"                          ,     895, 130.73
+2024, "Cleveland, OH (Metropolitan Area)"    , "Minneapolis/St. Paul, MN"             ,     657, 283.11
+2024, "Cleveland, OH (Metropolitan Area)"    , "New York City, NY (Metropolitan Area)",     459, 314.42
+2024, "Cleveland, OH (Metropolitan Area)"    , "Fort Myers, FL"                       ,    1025, 136.23
+2024, "Cleveland, OH (Metropolitan Area)"    , "Las Vegas, NV"                        ,    1846, 173.62
+2024, "Cleveland, OH (Metropolitan Area)"    , "San Francisco, CA (Metropolitan Area)",    2187, 475.83
+2024, "Cleveland, OH (Metropolitan Area)"    , "Miami, FL (Metropolitan Area)"        ,    1080, 157.48
+2024, "Cleveland, OH (Metropolitan Area)"    , "Los Angeles, CA (Metropolitan Area)"  ,    2073, 887.67
+2024, "Cleveland, OH (Metropolitan Area)"    , "Tampa, FL (Metropolitan Area)"        ,     927, 103.14
+2024, "Cleveland, OH (Metropolitan Area)"    , "San Diego, CA"                        ,    2045, 490.82
+2024, "Cleveland, OH (Metropolitan Area)"    , "Sarasota/Bradenton, FL"               ,     967, 126.22
+2024, "Nashville, TN"                        , "Phoenix, AZ"                          ,    1449, 259.5
+2024, "Nashville, TN"                        , "Washington, DC (Metropolitan Area)"   ,     587, 233.3
+2024, "Nashville, TN"                        , "New York City, NY (Metropolitan Area)",     803, 187.6
+2024, "Nashville, TN"                        , "San Francisco, CA (Metropolitan Area)",    1969, 293.74
+2024, "Nashville, TN"                        , "Tampa, FL (Metropolitan Area)"        ,     612,  78.81
+2024, "Boise, ID"                            , "Dallas/Fort Worth, TX"                ,    1282, 250.81
+2024, "Boise, ID"                            , "San Francisco, CA (Metropolitan Area)",     523, 175.31
+2024, "Boise, ID"                            , "Los Angeles, CA (Metropolitan Area)"  ,     688, 163.78
+2024, "Boston, MA (Metropolitan Area)"       , "Dallas/Fort Worth, TX"                ,    1562, 206.66
+2024, "Boston, MA (Metropolitan Area)"       , "Pittsburgh, PA"                       ,     496, 190.75
+2024, "Boston, MA (Metropolitan Area)"       , "Denver, CO"                           ,    1754, 256.61
+2024, "Boston, MA (Metropolitan Area)"       , "Phoenix, AZ"                          ,    2300, 286.84
+2024, "Boston, MA (Metropolitan Area)"       , "Seattle, WA"                          ,    2496, 259.93
+2024, "Boston, MA (Metropolitan Area)"       , "Cleveland, OH (Metropolitan Area)"    ,     563, 308.99
+2024, "Boston, MA (Metropolitan Area)"       , "Nashville, TN"                        ,     942, 210.07
+2024, "Boston, MA (Metropolitan Area)"       , "Buffalo, NY"                          ,     395, 156.99
+2024, "Boston, MA (Metropolitan Area)"       , "Washington, DC (Metropolitan Area)"   ,     418, 145.36
+2024, "Boston, MA (Metropolitan Area)"       , "Chicago, IL"                          ,     867, 149.86
+2024, "Boston, MA (Metropolitan Area)"       , "Charleston, SC"                       ,     836, 224.72
+2024, "Boston, MA (Metropolitan Area)"       , "Charlotte, NC"                        ,     737, 197.61
+2024, "Boston, MA (Metropolitan Area)"       , "Columbus, OH"                         ,     640, 287.55
+2024, "Boston, MA (Metropolitan Area)"       , "St. Louis, MO"                        ,    1047, 271.76
+2024, "Boston, MA (Metropolitan Area)"       , "Myrtle Beach, SC"                     ,     756, 122.85
+2024, "Boston, MA (Metropolitan Area)"       , "Jacksonville, FL"                     ,    1028, 233.9
+2024, "Boston, MA (Metropolitan Area)"       , "Detroit, MI"                          ,     632, 200.94
+2024, "Boston, MA (Metropolitan Area)"       , "Houston, TX"                          ,    1609, 251.11
+2024, "Boston, MA (Metropolitan Area)"       , "Orlando, FL"                          ,    1142, 207.13
+2024, "Boston, MA (Metropolitan Area)"       , "Key West, FL"                         ,    1396, 330.69
+2024, "Boston, MA (Metropolitan Area)"       , "Minneapolis/St. Paul, MN"             ,    1124, 257.99
+2024, "Boston, MA (Metropolitan Area)"       , "New York City, NY (Metropolitan Area)",     209, 174.93
+2024, "Boston, MA (Metropolitan Area)"       , "Fort Myers, FL"                       ,    1271, 263.98
+2024, "Boston, MA (Metropolitan Area)"       , "Las Vegas, NV"                        ,    2381, 350.81
+2024, "Boston, MA (Metropolitan Area)"       , "Indianapolis, IN"                     ,     818, 307.03
+2024, "Boston, MA (Metropolitan Area)"       , "San Francisco, CA (Metropolitan Area)",    2704, 273.63
+2024, "Boston, MA (Metropolitan Area)"       , "Miami, FL (Metropolitan Area)"        ,    1283, 223.23
+2024, "Boston, MA (Metropolitan Area)"       , "Los Angeles, CA (Metropolitan Area)"  ,    2611, 306.2
+2024, "Boston, MA (Metropolitan Area)"       , "Cincinnati, OH"                       ,     752, 283.91
+2024, "Boston, MA (Metropolitan Area)"       , "Tampa, FL (Metropolitan Area)"        ,    1204, 216.94
+2024, "Boston, MA (Metropolitan Area)"       , "Kansas City, MO"                      ,    1256, 279.03
+2024, "Boston, MA (Metropolitan Area)"       , "San Antonio, TX"                      ,    1764, 228.8
+2024, "Boston, MA (Metropolitan Area)"       , "Milwaukee, WI"                        ,     860, 187.35
+2024, "Boston, MA (Metropolitan Area)"       , "New Orleans, LA"                      ,    1371, 246.28
+2024, "Boston, MA (Metropolitan Area)"       , "San Diego, CA"                        ,    2588, 333.12
+2024, "Boston, MA (Metropolitan Area)"       , "Norfolk, VA (Metropolitan Area)"      ,     487, 236.98
+2024, "Boston, MA (Metropolitan Area)"       , "West Palm Beach/Palm Beach, FL"       ,    1222, 260.74
+2024, "Boston, MA (Metropolitan Area)"       , "Portland, OR"                         ,    2537, 315.91
+2024, "Boston, MA (Metropolitan Area)"       , "Philadelphia, PA"                     ,     289, 194.3
+2024, "Boston, MA (Metropolitan Area)"       , "Raleigh/Durham, NC"                   ,     625, 228.81
+2024, "Boston, MA (Metropolitan Area)"       , "Richmond, VA"                         ,     487, 171.2
+2024, "Boston, MA (Metropolitan Area)"       , "Salt Lake City, UT"                   ,    2105, 399.36
+2024, "Boston, MA (Metropolitan Area)"       , "Savannah, GA"                         ,     917, 235.46
+2024, "Boston, MA (Metropolitan Area)"       , "Sarasota/Bradenton, FL"               ,    1240, 264.64
+2024, "Burlington, VT"                       , "Washington, DC (Metropolitan Area)"   ,     441, 338.52
+2024, "Burlington, VT"                       , "New York City, NY (Metropolitan Area)",     266, 246.23
+2024, "Buffalo, NY"                          , "Phoenix, AZ"                          ,    1912, 273.03
+2024, "Buffalo, NY"                          , "Washington, DC (Metropolitan Area)"   ,     296, 197.04
+2024, "Buffalo, NY"                          , "Chicago, IL"                          ,     474, 179.45
+2024, "Buffalo, NY"                          , "New York City, NY (Metropolitan Area)",     326, 166.45
+2024, "Buffalo, NY"                          , "Miami, FL (Metropolitan Area)"        ,    1185, 217.13
+2024, "Buffalo, NY"                          , "Los Angeles, CA (Metropolitan Area)"  ,    2218, 295.3
+2024, "Buffalo, NY"                          , "Tampa, FL (Metropolitan Area)"        ,    1053, 195.81
+2024, "Bozeman, MT"                          , "Phoenix, AZ"                          ,     861, 121.4
+2024, "Bozeman, MT"                          , "New York City, NY (Metropolitan Area)",    1902, 435.38
+2024, "Bozeman, MT"                          , "San Francisco, CA (Metropolitan Area)",     807, 219.75
+2024, "Bozeman, MT"                          , "Los Angeles, CA (Metropolitan Area)"  ,     908, 159.91
+2024, "Washington, DC (Metropolitan Area)"   , "West Palm Beach/Palm Beach, FL"       ,     883, 258.47
+2024, "Columbia, SC"                         , "Washington, DC (Metropolitan Area)"   ,     438, 265.25
+2024, "Columbia, SC"                         , "New York City, NY (Metropolitan Area)",     638, 256.52
+2024, "Chicago, IL"                          , "Dallas/Fort Worth, TX"                ,     802, 178.27
+2024, "Chicago, IL"                          , "Pittsburgh, PA"                       ,     413, 165.5
+2024, "Chicago, IL"                          , "Denver, CO"                           ,     895, 150.56
+2024, "Chicago, IL"                          , "Tucson, AZ"                           ,    1440, 268.42
+2024, "Chicago, IL"                          , "Phoenix, AZ"                          ,    1444, 207.87
+2024, "Chicago, IL"                          , "Hartford, CT"                         ,     783, 225.58
+2024, "Chicago, IL"                          , "Seattle, WA"                          ,    1733, 208.42
+2024, "Chicago, IL"                          , "El Paso, TX"                          ,    1237, 237.47
+2024, "Chicago, IL"                          , "Cleveland, OH (Metropolitan Area)"    ,     343, 175.98
+2024, "Chicago, IL"                          , "Nashville, TN"                        ,     409, 177.81
+2024, "Chicago, IL"                          , "Washington, DC (Metropolitan Area)"   ,     622, 185.74
+2024, "Chicago, IL"                          , "Columbus, OH"                         ,     296, 163.54
+2024, "Chicago, IL"                          , "St. Louis, MO"                        ,     258, 190.78
+2024, "Chicago, IL"                          , "Jacksonville, FL"                     ,     864, 224.16
+2024, "Chicago, IL"                          , "Detroit, MI"                          ,     235, 191.82
+2024, "Chicago, IL"                          , "Houston, TX"                          ,     945, 193.89
+2024, "Chicago, IL"                          , "Orlando, FL"                          ,    1005, 187.51
+2024, "Chicago, IL"                          , "Minneapolis/St. Paul, MN"             ,     349, 168.57
+2024, "Chicago, IL"                          , "New York City, NY (Metropolitan Area)",     773, 217.43
+2024, "Chicago, IL"                          , "Fort Myers, FL"                       ,    1120, 245.45
+2024, "Chicago, IL"                          , "Las Vegas, NV"                        ,    1521, 204.38
+2024, "Chicago, IL"                          , "San Francisco, CA (Metropolitan Area)",    1855, 207.05
+2024, "Chicago, IL"                          , "Miami, FL (Metropolitan Area)"        ,    1197, 220.9
+2024, "Chicago, IL"                          , "Los Angeles, CA (Metropolitan Area)"  ,    1750, 263.35
+2024, "Chicago, IL"                          , "Louisville, KY"                       ,     286, 155.83
+2024, "Chicago, IL"                          , "Cincinnati, OH"                       ,     264, 169.61
+2024, "Chicago, IL"                          , "Sacramento, CA"                       ,    1790, 270.02
+2024, "Chicago, IL"                          , "Tampa, FL (Metropolitan Area)"        ,    1012, 184.17
+2024, "Chicago, IL"                          , "Kansas City, MO"                      ,     405, 179.3
+2024, "Chicago, IL"                          , "San Antonio, TX"                      ,    1041, 227.31
+2024, "Chicago, IL"                          , "Memphis, TN"                          ,     491, 168.27
+2024, "Chicago, IL"                          , "Omaha, NE"                            ,     423, 181.6
+2024, "Chicago, IL"                          , "New Orleans, LA"                      ,     837, 212.9
+2024, "Chicago, IL"                          , "San Diego, CA"                        ,    1728, 238.56
+2024, "Chicago, IL"                          , "Norfolk, VA (Metropolitan Area)"      ,     717, 199.54
+2024, "Chicago, IL"                          , "Pensacola, FL"                        ,     794, 239.96
+2024, "Chicago, IL"                          , "Oklahoma City, OK"                    ,     693, 198.55
+2024, "Chicago, IL"                          , "West Palm Beach/Palm Beach, FL"       ,    1144, 252.98
+2024, "Chicago, IL"                          , "Portland, OR"                         ,    1751, 229.25
+2024, "Chicago, IL"                          , "Philadelphia, PA"                     ,     678, 165.66
+2024, "Chicago, IL"                          , "Palm Springs, CA"                     ,    1657, 253.27
+2024, "Chicago, IL"                          , "Raleigh/Durham, NC"                   ,     646, 174.75
+2024, "Chicago, IL"                          , "Richmond, VA"                         ,     642, 203.61
+2024, "Chicago, IL"                          , "Salt Lake City, UT"                   ,    1259, 243.82
+2024, "Chicago, IL"                          , "Savannah, GA"                         ,     773, 209.62
+2024, "Chicago, IL"                          , "Sarasota/Bradenton, FL"               ,    1050, 236.8
+2024, "Chicago, IL"                          , "Knoxville, TN"                        ,     475, 356.25
+2024, "Charleston, SC"                       , "Dallas/Fort Worth, TX"                ,     987, 236.71
+2024, "Charleston, SC"                       , "Phoenix, AZ"                          ,    1846, 283.08
+2024, "Charleston, SC"                       , "Washington, DC (Metropolitan Area)"   ,     472, 196.66
+2024, "Charleston, SC"                       , "Chicago, IL"                          ,     760, 185.69
+2024, "Charleston, SC"                       , "Houston, TX"                          ,     928, 243.69
+2024, "Charleston, SC"                       , "New York City, NY (Metropolitan Area)",     677, 182.49
+2024, "Charleston, SC"                       , "Miami, FL (Metropolitan Area)"        ,     489, 136.98
+2024, "Charleston, SC"                       , "Los Angeles, CA (Metropolitan Area)"  ,    2206, 376.0
+2024, "Charleston, SC"                       , "Tampa, FL (Metropolitan Area)"        ,     370, 153.94
+2024, "Cedar Rapids/Iowa City, IA"           , "Phoenix, AZ"                          ,    1252, 129.58
+2024, "Charlotte, NC"                        , "Dallas/Fort Worth, TX"                ,     936, 196.39
+2024, "Charlotte, NC"                        , "Phoenix, AZ"                          ,    1773, 349.2
+2024, "Charlotte, NC"                        , "Cleveland, OH (Metropolitan Area)"    ,     430, 273.95
+2024, "Charlotte, NC"                        , "Washington, DC (Metropolitan Area)"   ,     361, 197.98
+2024, "Charlotte, NC"                        , "Chicago, IL"                          ,     599, 143.12
+2024, "Charlotte, NC"                        , "Houston, TX"                          ,     920, 270.13
+2024, "Charlotte, NC"                        , "New York City, NY (Metropolitan Area)",     575, 208.38
+2024, "Charlotte, NC"                        , "San Francisco, CA (Metropolitan Area)",    2296, 259.67
+2024, "Charlotte, NC"                        , "Miami, FL (Metropolitan Area)"        ,     650, 187.29
+2024, "Charlotte, NC"                        , "Los Angeles, CA (Metropolitan Area)"  ,    2125, 327.45
+2024, "Charlotte, NC"                        , "Tampa, FL (Metropolitan Area)"        ,     507, 234.65
+2024, "Columbus, OH"                         , "Dallas/Fort Worth, TX"                ,     926, 225.28
+2024, "Columbus, OH"                         , "Denver, CO"                           ,    1154, 229.11
+2024, "Columbus, OH"                         , "Phoenix, AZ"                          ,    1670, 310.19
+2024, "Columbus, OH"                         , "Seattle, WA"                          ,    2016, 245.22
+2024, "Columbus, OH"                         , "Washington, DC (Metropolitan Area)"   ,     337, 194.29
+2024, "Columbus, OH"                         , "Houston, TX"                          ,    1000, 251.09
+2024, "Columbus, OH"                         , "Orlando, FL"                          ,     802, 185.7
+2024, "Columbus, OH"                         , "Minneapolis/St. Paul, MN"             ,     626, 297.7
+2024, "Columbus, OH"                         , "New York City, NY (Metropolitan Area)",     519, 229.28
+2024, "Columbus, OH"                         , "Fort Myers, FL"                       ,     930, 219.76
+2024, "Columbus, OH"                         , "Las Vegas, NV"                        ,    1771, 232.03
+2024, "Columbus, OH"                         , "San Francisco, CA (Metropolitan Area)",    2120, 227.9
+2024, "Columbus, OH"                         , "Miami, FL (Metropolitan Area)"        ,     990, 192.32
+2024, "Columbus, OH"                         , "Los Angeles, CA (Metropolitan Area)"  ,    1995, 332.37
+2024, "Columbus, OH"                         , "Tampa, FL (Metropolitan Area)"        ,     829, 199.07
+2024, "Columbus, OH"                         , "Sarasota/Bradenton, FL"               ,     869, 230.74
+2024, "St. Louis, MO"                        , "Washington, DC (Metropolitan Area)"   ,     738, 243.39
+2024, "St. Louis, MO"                        , "Tampa, FL (Metropolitan Area)"        ,     869, 228.46
+2024, "Myrtle Beach, SC"                     , "Washington, DC (Metropolitan Area)"   ,     399, 174.38
+2024, "Myrtle Beach, SC"                     , "New York City, NY (Metropolitan Area)",     601, 125.15
+2024, "Jacksonville, FL"                     , "Phoenix, AZ"                          ,    1786, 356.39
+2024, "Jacksonville, FL"                     , "Washington, DC (Metropolitan Area)"   ,     663, 223.01
+2024, "Jacksonville, FL"                     , "New York City, NY (Metropolitan Area)",     858, 204.35
+2024, "Jacksonville, FL"                     , "San Francisco, CA (Metropolitan Area)",    2366, 260.67
+2024, "Jacksonville, FL"                     , "Miami, FL (Metropolitan Area)"        ,     335, 138.71
+2024, "Jacksonville, FL"                     , "Los Angeles, CA (Metropolitan Area)"  ,    2153, 359.68
+2024, "Jacksonville, FL"                     , "Norfolk, VA (Metropolitan Area)"      ,     546, 199.61
+2024, "Dayton, OH"                           , "Washington, DC (Metropolitan Area)"   ,     406, 308.88
+2024, "Detroit, MI"                          , "Phoenix, AZ"                          ,    1671, 315.8
+2024, "Detroit, MI"                          , "Washington, DC (Metropolitan Area)"   ,     409, 200.62
+2024, "Detroit, MI"                          , "Houston, TX"                          ,    1092, 274.32
+2024, "Detroit, MI"                          , "New York City, NY (Metropolitan Area)",     540, 189.78
+2024, "Detroit, MI"                          , "San Francisco, CA (Metropolitan Area)",    2079, 295.75
+2024, "Detroit, MI"                          , "Miami, FL (Metropolitan Area)"        ,    1145, 234.4
+2024, "Detroit, MI"                          , "Los Angeles, CA (Metropolitan Area)"  ,    1979, 336.47
+2024, "Detroit, MI"                          , "Tampa, FL (Metropolitan Area)"        ,     983, 213.65
+2024, "Des Moines, IA"                       , "Phoenix, AZ"                          ,    1150, 138.74
+2024, "Des Moines, IA"                       , "New York City, NY (Metropolitan Area)",    1071, 243.05
+2024, "Des Moines, IA"                       , "Miami, FL (Metropolitan Area)"        ,    1327, 209.07
+2024, "Houston, TX"                          , "Pittsburgh, PA"                       ,    1131, 251.85
+2024, "Houston, TX"                          , "Phoenix, AZ"                          ,    1020,  95.24
+2024, "Houston, TX"                          , "Seattle, WA"                          ,    1894, 303.46
+2024, "Houston, TX"                          , "Nashville, TN"                        ,     670, 211.15
+2024, "Houston, TX"                          , "Washington, DC (Metropolitan Area)"   ,    1246, 211.4
+2024, "Houston, TX"                          , "St. Louis, MO"                        ,     687, 218.23
+2024, "Houston, TX"                          , "Jacksonville, FL"                     ,     817, 247.22
+2024, "Houston, TX"                          , "Orlando, FL"                          ,     854, 188.53
+2024, "Houston, TX"                          , "Minneapolis/St. Paul, MN"             ,    1057, 181.79
+2024, "Houston, TX"                          , "New York City, NY (Metropolitan Area)",    1465, 353.29
+2024, "Houston, TX"                          , "Las Vegas, NV"                        ,    1235, 214.18
+2024, "Houston, TX"                          , "Indianapolis, IN"                     ,     861, 233.71
+2024, "Houston, TX"                          , "San Francisco, CA (Metropolitan Area)",    1649, 274.15
+2024, "Houston, TX"                          , "Miami, FL (Metropolitan Area)"        ,     966, 207.51
+2024, "Houston, TX"                          , "Los Angeles, CA (Metropolitan Area)"  ,    1390, 258.4
+2024, "Houston, TX"                          , "Lubbock, TX"                          ,     475, 210.58
+2024, "Houston, TX"                          , "Louisville, KY"                       ,     803, 217.4
+2024, "Houston, TX"                          , "Midland/Odessa, TX"                   ,     441, 195.0
+2024, "Houston, TX"                          , "Sacramento, CA"                       ,    1624, 306.63
+2024, "Houston, TX"                          , "Tampa, FL (Metropolitan Area)"        ,     787, 188.74
+2024, "Houston, TX"                          , "Kansas City, MO"                      ,     666, 210.01
+2024, "Houston, TX"                          , "San Antonio, TX"                      ,     192, 203.81
+2024, "Houston, TX"                          , "Memphis, TN"                          ,     484, 180.87
+2024, "Houston, TX"                          , "Omaha, NE"                            ,     804, 215.85
+2024, "Houston, TX"                          , "Milwaukee, WI"                        ,    1004, 203.3
+2024, "Houston, TX"                          , "New Orleans, LA"                      ,     305, 189.0
+2024, "Houston, TX"                          , "San Diego, CA"                        ,    1313, 256.43
+2024, "Houston, TX"                          , "Norfolk, VA (Metropolitan Area)"      ,    1209, 239.49
+2024, "Houston, TX"                          , "Oklahoma City, OK"                    ,     419, 184.52
+2024, "Houston, TX"                          , "West Palm Beach/Palm Beach, FL"       ,     956, 271.43
+2024, "Houston, TX"                          , "Portland, OR"                         ,    1844, 248.57
+2024, "Houston, TX"                          , "Philadelphia, PA"                     ,    1335, 243.36
+2024, "Houston, TX"                          , "Raleigh/Durham, NC"                   ,    1050, 267.27
+2024, "Houston, TX"                          , "Richmond, VA"                         ,    1166, 234.68
+2024, "Houston, TX"                          , "Salt Lake City, UT"                   ,    1214, 278.92
+2024, "Houston, TX"                          , "Tulsa, OK"                            ,     453, 194.46
+2024, "Orlando, FL"                          , "Phoenix, AZ"                          ,    1849, 297.28
+2024, "Orlando, FL"                          , "Washington, DC (Metropolitan Area)"   ,     787, 178.32
+2024, "Orlando, FL"                          , "San Francisco, CA (Metropolitan Area)",    2446, 292.07
+2024, "Eagle, CO"                            , "New York City, NY (Metropolitan Area)",    1746, 556.16
+2024, "Eagle, CO"                            , "Miami, FL (Metropolitan Area)"        ,    1810, 535.78
+2024, "Valparaiso, FL"                       , "Washington, DC (Metropolitan Area)"   ,     819, 262.43
+2024, "Eugene, OR"                           , "Phoenix, AZ"                          ,     971, 103.23
+2024, "Eugene, OR"                           , "San Francisco, CA (Metropolitan Area)",     471, 131.84
+2024, "Eugene, OR"                           , "Los Angeles, CA (Metropolitan Area)"  ,     776, 137.4
+2024, "Key West, FL"                         , "Washington, DC (Metropolitan Area)"   ,    1050, 357.05
+2024, "Key West, FL"                         , "New York City, NY (Metropolitan Area)",    1229, 300.93
+2024, "Fargo, ND"                            , "Phoenix, AZ"                          ,    1225, 178.48
+2024, "Fresno, CA"                           , "Phoenix, AZ"                          ,     493, 256.28
+2024, "Minneapolis/St. Paul, MN"             , "Phoenix, AZ"                          ,    1276, 143.98
+2024, "Minneapolis/St. Paul, MN"             , "Washington, DC (Metropolitan Area)"   ,     936, 233.53
+2024, "Minneapolis/St. Paul, MN"             , "New York City, NY (Metropolitan Area)",    1057, 253.06
+2024, "Minneapolis/St. Paul, MN"             , "San Francisco, CA (Metropolitan Area)",    1589, 245.66
+2024, "Minneapolis/St. Paul, MN"             , "Tampa, FL (Metropolitan Area)"        ,    1307, 153.13
+2024, "New York City, NY (Metropolitan Area)", "Pittsburgh, PA"                       ,     375, 198.55
+2024, "New York City, NY (Metropolitan Area)", "Tucson, AZ"                           ,    2142, 447.77
+2024, "New York City, NY (Metropolitan Area)", "Phoenix, AZ"                          ,    2189, 284.94
+2024, "New York City, NY (Metropolitan Area)", "Seattle, WA"                          ,    2422, 280.76
+2024, "New York City, NY (Metropolitan Area)", "Washington, DC (Metropolitan Area)"   ,     234, 213.64
+2024, "New York City, NY (Metropolitan Area)", "St. Louis, MO"                        ,     929, 270.9
+2024, "New York City, NY (Metropolitan Area)", "Orlando, FL"                          ,     989, 184.42
+2024, "New York City, NY (Metropolitan Area)", "Wilmington, NC"                       ,     522, 216.55
+2024, "New York City, NY (Metropolitan Area)", "San Francisco, CA (Metropolitan Area)",    2608, 130.67
+2024, "New York City, NY (Metropolitan Area)", "Sacramento, CA"                       ,    2521, 356.17
+2024, "New York City, NY (Metropolitan Area)", "Tampa, FL (Metropolitan Area)"        ,    1055, 196.87
+2024, "New York City, NY (Metropolitan Area)", "San Antonio, TX"                      ,    1624, 251.22
+2024, "New York City, NY (Metropolitan Area)", "Omaha, NE"                            ,    1188, 292.69
+2024, "New York City, NY (Metropolitan Area)", "San Diego, CA"                        ,    2481, 331.25
+2024, "New York City, NY (Metropolitan Area)", "Norfolk, VA (Metropolitan Area)"      ,     318, 204.53
+2024, "New York City, NY (Metropolitan Area)", "Oklahoma City, OK"                    ,    1381, 317.69
+2024, "New York City, NY (Metropolitan Area)", "West Palm Beach/Palm Beach, FL"       ,    1056, 235.99
+2024, "New York City, NY (Metropolitan Area)", "Portland, OR"                         ,    2482, 310.63
+2024, "New York City, NY (Metropolitan Area)", "Palm Springs, CA"                     ,    2381, 434.24
+2024, "New York City, NY (Metropolitan Area)", "Portland, ME"                         ,     284, 190.77
+2024, "New York City, NY (Metropolitan Area)", "Raleigh/Durham, NC"                   ,     459, 174.15
+2024, "New York City, NY (Metropolitan Area)", "Richmond, VA"                         ,     313, 244.84
+2024, "New York City, NY (Metropolitan Area)", "Reno, NV"                             ,    2411, 385.66
+2024, "New York City, NY (Metropolitan Area)", "Rochester, NY"                        ,     285, 169.91
+2024, "New York City, NY (Metropolitan Area)", "Salt Lake City, UT"                   ,    2022, 392.81
+2024, "New York City, NY (Metropolitan Area)", "Savannah, GA"                         ,     748, 190.53
+2024, "New York City, NY (Metropolitan Area)", "Sarasota/Bradenton, FL"               ,    1069, 243.11
+2024, "New York City, NY (Metropolitan Area)", "Syracuse, NY"                         ,     222, 150.17
+2024, "New York City, NY (Metropolitan Area)", "Vero Beach, FL"                       ,    1000, 142.82
+2024, "Fort Myers, FL"                       , "Phoenix, AZ"                          ,    1868, 343.03
+2024, "Fort Myers, FL"                       , "Washington, DC (Metropolitan Area)"   ,     919, 252.79
+2024, "Fort Myers, FL"                       , "Houston, TX"                          ,     861, 208.49
+2024, "Fort Myers, FL"                       , "New York City, NY (Metropolitan Area)",    1102, 224.47
+2024, "Fort Myers, FL"                       , "San Francisco, CA (Metropolitan Area)",    2481, 243.48
+2024, "Fort Myers, FL"                       , "Los Angeles, CA (Metropolitan Area)"  ,    2238, 315.64
+2024, "Flint, MI"                            , "Tampa, FL (Metropolitan Area)"        ,    1040, 134.74
+2024, "Fayetteville, AR"                     , "New York City, NY (Metropolitan Area)",    1159, 345.16
+2024, "Fayetteville, AR"                     , "Los Angeles, CA (Metropolitan Area)"  ,    1371, 304.74
+2024, "Greenville/Spartanburg, SC"           , "Washington, DC (Metropolitan Area)"   ,     426, 193.27
+2024, "Greenville/Spartanburg, SC"           , "New York City, NY (Metropolitan Area)",     643, 215.06
+2024, "Grand Rapids, MI"                     , "Phoenix, AZ"                          ,    1574, 149.22
+2024, "Grand Rapids, MI"                     , "Houston, TX"                          ,    1061, 297.74
+2024, "Grand Rapids, MI"                     , "New York City, NY (Metropolitan Area)",     656, 223.11
+2024, "Grand Rapids, MI"                     , "Miami, FL (Metropolitan Area)"        ,    1214, 211.23
+2024, "Grand Rapids, MI"                     , "Tampa, FL (Metropolitan Area)"        ,    1044, 123.52
+2024, "San Francisco, CA (Metropolitan Area)", "Seattle, WA"                          ,     696, 205.6
+2024, "Greensboro/High Point, NC"            , "New York City, NY (Metropolitan Area)",     481, 185.96
+2024, "Harlingen/San Benito, TX"             , "Houston, TX"                          ,     295, 125.99
+2024, "Las Vegas, NV"                        , "Phoenix, AZ"                          ,     276,  58.0
+2024, "Las Vegas, NV"                        , "Washington, DC (Metropolitan Area)"   ,    2106, 272.35
+2024, "Las Vegas, NV"                        , "New York City, NY (Metropolitan Area)",    2282, 369.87
+2024, "Las Vegas, NV"                        , "San Francisco, CA (Metropolitan Area)",     414, 149.6
+2024, "Las Vegas, NV"                        , "Miami, FL (Metropolitan Area)"        ,    2174, 251.49
+2024, "Las Vegas, NV"                        , "Los Angeles, CA (Metropolitan Area)"  ,     236, 161.75
+2024, "Las Vegas, NV"                        , "Tampa, FL (Metropolitan Area)"        ,    1984, 262.58
+2024, "Las Vegas, NV"                        , "Norfolk, VA (Metropolitan Area)"      ,    2154, 301.88
+2024, "New Haven, CT"                        , "Tampa, FL (Metropolitan Area)"        ,    1067, 110.55
+2024, "Indianapolis, IN"                     , "Phoenix, AZ"                          ,    1488, 285.0
+2024, "Indianapolis, IN"                     , "Washington, DC (Metropolitan Area)"   ,     516, 210.57
+2024, "Indianapolis, IN"                     , "New York City, NY (Metropolitan Area)",     701, 206.51
+2024, "Indianapolis, IN"                     , "San Francisco, CA (Metropolitan Area)",    1943, 241.13
+2024, "Indianapolis, IN"                     , "Miami, FL (Metropolitan Area)"        ,    1020, 190.11
+2024, "Indianapolis, IN"                     , "Los Angeles, CA (Metropolitan Area)"  ,    1814, 264.37
+2024, "Indianapolis, IN"                     , "Tampa, FL (Metropolitan Area)"        ,     840, 104.5
+2024, "Jackson, WY"                          , "New York City, NY (Metropolitan Area)",    1894, 572.4
+2024, "Jackson/Vicksburg, MS"                , "Washington, DC (Metropolitan Area)"   ,     888, 192.0
+2024, "San Francisco, CA (Metropolitan Area)", "Tucson, AZ"                           ,     751, 203.43
+2024, "San Francisco, CA (Metropolitan Area)", "Washington, DC (Metropolitan Area)"   ,    2457, 243.28
+2024, "San Francisco, CA (Metropolitan Area)", "St. Louis, MO"                        ,    1735, 275.55
+2024, "San Francisco, CA (Metropolitan Area)", "Spokane, WA"                          ,     742, 192.0
+2024, "San Francisco, CA (Metropolitan Area)", "Tampa, FL (Metropolitan Area)"        ,    2393, 272.19
+2024, "San Francisco, CA (Metropolitan Area)", "Santa Barbara, CA"                    ,     263, 161.2
+2024, "Miami, FL (Metropolitan Area)"        , "Pittsburgh, PA"                       ,    1013, 180.88
+2024, "Miami, FL (Metropolitan Area)"        , "Phoenix, AZ"                          ,    1972, 234.98
+2024, "Miami, FL (Metropolitan Area)"        , "Seattle, WA"                          ,    2724, 312.56
+2024, "Miami, FL (Metropolitan Area)"        , "Nashville, TN"                        ,     806, 172.35
+2024, "Miami, FL (Metropolitan Area)"        , "Washington, DC (Metropolitan Area)"   ,     946, 189.02
+2024, "Miami, FL (Metropolitan Area)"        , "St. Louis, MO"                        ,    1068, 245.57
+2024, "Miami, FL (Metropolitan Area)"        , "Orlando, FL"                          ,     192, 115.26
+2024, "Miami, FL (Metropolitan Area)"        , "Minneapolis/St. Paul, MN"             ,    1501, 228.68
+2024, "Miami, FL (Metropolitan Area)"        , "New York City, NY (Metropolitan Area)",    1118, 195.61
+2024, "Miami, FL (Metropolitan Area)"        , "New Haven, CT"                        ,    1126, 121.04
+2024, "Miami, FL (Metropolitan Area)"        , "San Francisco, CA (Metropolitan Area)",    2585, 216.2
+2024, "Miami, FL (Metropolitan Area)"        , "Sacramento, CA"                       ,    2552, 335.06
+2024, "Miami, FL (Metropolitan Area)"        , "Tampa, FL (Metropolitan Area)"        ,     204, 135.81
+2024, "Miami, FL (Metropolitan Area)"        , "San Antonio, TX"                      ,    1145, 191.79
+2024, "Miami, FL (Metropolitan Area)"        , "Omaha, NE"                            ,    1393, 251.42
+2024, "Miami, FL (Metropolitan Area)"        , "Milwaukee, WI"                        ,    1258, 220.94
+2024, "Miami, FL (Metropolitan Area)"        , "New Orleans, LA"                      ,     675, 145.16
+2024, "Miami, FL (Metropolitan Area)"        , "San Diego, CA"                        ,    2269, 249.02
+2024, "Miami, FL (Metropolitan Area)"        , "Norfolk, VA (Metropolitan Area)"      ,     812, 164.79
+2024, "Miami, FL (Metropolitan Area)"        , "Pensacola, FL"                        ,     530, 145.91
+2024, "Miami, FL (Metropolitan Area)"        , "Worcester, MA"                        ,    1232, 194.76
+2024, "Miami, FL (Metropolitan Area)"        , "Portland, OR"                         ,    2700, 271.59
+2024, "Miami, FL (Metropolitan Area)"        , "Philadelphia, PA"                     ,    1013, 197.99
+2024, "Miami, FL (Metropolitan Area)"        , "Raleigh/Durham, NC"                   ,     700, 164.38
+2024, "Miami, FL (Metropolitan Area)"        , "Richmond, VA"                         ,     825, 162.57
+2024, "Miami, FL (Metropolitan Area)"        , "Rochester, NY"                        ,    1203, 251.08
+2024, "Miami, FL (Metropolitan Area)"        , "Salt Lake City, UT"                   ,    2088, 299.35
+2024, "Miami, FL (Metropolitan Area)"        , "Savannah, GA"                         ,     440, 182.14
+2024, "Miami, FL (Metropolitan Area)"        , "Syracuse, NY"                         ,    1217, 190.76
+2024, "Miami, FL (Metropolitan Area)"        , "Tallahassee, FL"                      ,     402, 137.63
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Pittsburgh, PA"                       ,    2136, 346.26
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Tucson, AZ"                           ,     453, 225.48
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Phoenix, AZ"                          ,     370, 176.05
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Seattle, WA"                          ,     978, 209.2
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Nashville, TN"                        ,    1797, 268.86
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Washington, DC (Metropolitan Area)"   ,    2329, 309.41
+2024, "Los Angeles, CA (Metropolitan Area)"  , "St. Louis, MO"                        ,    1592, 301.27
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Orlando, FL"                          ,    2218, 330.23
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Minneapolis/St. Paul, MN"             ,    1535, 295.77
+2024, "Los Angeles, CA (Metropolitan Area)"  , "New York City, NY (Metropolitan Area)",    2510, 310.6
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Spokane, WA"                          ,     962, 244.94
+2024, "Los Angeles, CA (Metropolitan Area)"  , "San Francisco, CA (Metropolitan Area)",     372, 171.1
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Miami, FL (Metropolitan Area)"        ,    2343, 291.93
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Louisville, KY"                       ,    1843, 314.8
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Sacramento, CA"                       ,     404, 175.42
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Tampa, FL (Metropolitan Area)"        ,    2158, 264.7
+2024, "Los Angeles, CA (Metropolitan Area)"  , "San Antonio, TX"                      ,    1211, 284.67
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Memphis, TN"                          ,    1619, 411.99
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Medford, OR"                          ,     659, 116.44
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Omaha, NE"                            ,    1330, 279.74
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Milwaukee, WI"                        ,    1756, 262.14
+2024, "Los Angeles, CA (Metropolitan Area)"  , "New Orleans, LA"                      ,    1670, 269.73
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Norfolk, VA (Metropolitan Area)"      ,    2371, 348.59
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Oklahoma City, OK"                    ,    1187, 307.6
+2024, "Los Angeles, CA (Metropolitan Area)"  , "West Palm Beach/Palm Beach, FL"       ,    2330, 346.2
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Portland, OR"                         ,     859, 190.28
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Philadelphia, PA"                     ,    2402, 327.23
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Provo, UT"                            ,     569,  65.67
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Santa Rosa, CA"                       ,     433, 116.89
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Raleigh/Durham, NC"                   ,    2239, 311.68
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Richmond, VA"                         ,    2305, 335.39
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Reno, NV"                             ,     415, 157.79
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Salt Lake City, UT"                   ,     590, 236.87
+2024, "Los Angeles, CA (Metropolitan Area)"  , "Tulsa, OK"                            ,    1283, 285.91
+2024, "Louisville, KY"                       , "Phoenix, AZ"                          ,    1506, 311.84
+2024, "Louisville, KY"                       , "Washington, DC (Metropolitan Area)"   ,     495, 175.65
+2024, "Louisville, KY"                       , "New York City, NY (Metropolitan Area)",     699, 211.53
+2024, "Louisville, KY"                       , "Miami, FL (Metropolitan Area)"        ,     910, 162.8
+2024, "Louisville, KY"                       , "Tampa, FL (Metropolitan Area)"        ,     729,  85.16
+2024, "Cincinnati, OH"                       , "Dallas/Fort Worth, TX"                ,     812, 247.8
+2024, "Cincinnati, OH"                       , "Phoenix, AZ"                          ,    1569, 127.96
+2024, "Cincinnati, OH"                       , "Washington, DC (Metropolitan Area)"   ,     430, 191.71
+2024, "Cincinnati, OH"                       , "Houston, TX"                          ,     886, 206.51
+2024, "Cincinnati, OH"                       , "New York City, NY (Metropolitan Area)",     626, 211.74
+2024, "Cincinnati, OH"                       , "San Francisco, CA (Metropolitan Area)",    2036, 267.91
+2024, "Cincinnati, OH"                       , "Miami, FL (Metropolitan Area)"        ,     948, 218.58
+2024, "Cincinnati, OH"                       , "Los Angeles, CA (Metropolitan Area)"  ,    1900, 342.54
+2024, "Cincinnati, OH"                       , "Tampa, FL (Metropolitan Area)"        ,     776, 105.51
+2024, "Sacramento, CA"                       , "Washington, DC (Metropolitan Area)"   ,    2395, 351.76
+2024, "Tampa, FL (Metropolitan Area)"        , "Washington, DC (Metropolitan Area)"   ,     842, 194.66
+2024, "Tampa, FL (Metropolitan Area)"        , "Trenton, NJ"                          ,     955, 100.14
+2024, "Kansas City, MO"                      , "Phoenix, AZ"                          ,    1044, 240.08
+2024, "Kansas City, MO"                      , "Washington, DC (Metropolitan Area)"   ,     967, 262.77
+2024, "Kansas City, MO"                      , "New York City, NY (Metropolitan Area)",    1148, 244.35
+2024, "Kansas City, MO"                      , "San Francisco, CA (Metropolitan Area)",    1499, 306.3
+2024, "Kansas City, MO"                      , "Miami, FL (Metropolitan Area)"        ,    1251, 272.31
+2024, "Kansas City, MO"                      , "Los Angeles, CA (Metropolitan Area)"  ,    1363, 278.21
+2024, "Kansas City, MO"                      , "Tampa, FL (Metropolitan Area)"        ,    1048,  94.75
+2024, "San Antonio, TX"                      , "Washington, DC (Metropolitan Area)"   ,    1407, 295.37
+2024, "San Antonio, TX"                      , "San Francisco, CA (Metropolitan Area)",    1482, 208.76
+2024, "San Antonio, TX"                      , "Tampa, FL (Metropolitan Area)"        ,     972, 213.64
+2024, "Memphis, TN"                          , "Phoenix, AZ"                          ,    1264, 305.59
+2024, "Memphis, TN"                          , "Washington, DC (Metropolitan Area)"   ,     787, 226.41
+2024, "Memphis, TN"                          , "New York City, NY (Metropolitan Area)",    1002, 304.66
+2024, "Memphis, TN"                          , "Miami, FL (Metropolitan Area)"        ,     859, 222.89
+2024, "Omaha, NE"                            , "Phoenix, AZ"                          ,    1037, 107.82
+2024, "Omaha, NE"                            , "Washington, DC (Metropolitan Area)"   ,    1025, 307.43
+2024, "Omaha, NE"                            , "Tampa, FL (Metropolitan Area)"        ,    1190, 106.95
+2024, "Milwaukee, WI"                        , "Phoenix, AZ"                          ,    1460, 247.46
+2024, "Milwaukee, WI"                        , "Washington, DC (Metropolitan Area)"   ,     641, 210.85
+2024, "Milwaukee, WI"                        , "New York City, NY (Metropolitan Area)",     777, 188.91
+2024, "Milwaukee, WI"                        , "Tampa, FL (Metropolitan Area)"        ,    1075, 246.73
+2024, "Madison, WI"                          , "Phoenix, AZ"                          ,    1396, 271.24
+2024, "Madison, WI"                          , "New York City, NY (Metropolitan Area)",     819, 218.78
+2024, "New Orleans, LA"                      , "Phoenix, AZ"                          ,    1300, 291.41
+2024, "New Orleans, LA"                      , "Washington, DC (Metropolitan Area)"   ,     998, 221.29
+2024, "New Orleans, LA"                      , "New York City, NY (Metropolitan Area)",    1218, 227.94
+2024, "New Orleans, LA"                      , "San Francisco, CA (Metropolitan Area)",    1911, 236.58
+2024, "New Orleans, LA"                      , "Tampa, FL (Metropolitan Area)"        ,     488, 167.75
+2024, "San Diego, CA"                        , "Washington, DC (Metropolitan Area)"   ,    2295, 322.43
+2024, "San Diego, CA"                        , "San Francisco, CA (Metropolitan Area)",     447, 159.95
+2024, "San Diego, CA"                        , "Tampa, FL (Metropolitan Area)"        ,    2087, 248.22
+2024, "Norfolk, VA (Metropolitan Area)"      , "Orlando, FL"                          ,     662, 181.42
+2024, "Norfolk, VA (Metropolitan Area)"      , "Tampa, FL (Metropolitan Area)"        ,     722, 160.29
+2024, "Norfolk, VA (Metropolitan Area)"      , "San Diego, CA"                        ,    2330, 330.63
+2024, "Pensacola, FL"                        , "Washington, DC (Metropolitan Area)"   ,     846, 243.36
+2024, "Oklahoma City, OK"                    , "Phoenix, AZ"                          ,     833, 262.8
+2024, "Oklahoma City, OK"                    , "Washington, DC (Metropolitan Area)"   ,    1180, 276.22
+2024, "Everett, WA"                          , "Phoenix, AZ"                          ,    1133, 217.37
+2024, "Everett, WA"                          , "Los Angeles, CA (Metropolitan Area)"  ,    1008, 210.08
+2024, "Portland, OR"                         , "Washington, DC (Metropolitan Area)"   ,    2358, 342.81
+2024, "Portland, OR"                         , "San Francisco, CA (Metropolitan Area)",     569, 180.54
+2024, "Portland, OR"                         , "Tampa, FL (Metropolitan Area)"        ,    2497, 268.67
+2024, "Philadelphia, PA"                     , "Phoenix, AZ"                          ,    2075, 383.11
+2024, "Philadelphia, PA"                     , "San Francisco, CA (Metropolitan Area)",    2521, 235.9
+2024, "Philadelphia, PA"                     , "Tampa, FL (Metropolitan Area)"        ,     920, 209.0
+2024, "Palm Springs, CA"                     , "San Francisco, CA (Metropolitan Area)",     421, 192.42
+2024, "Portland, ME"                         , "Washington, DC (Metropolitan Area)"   ,     493, 193.41
+2024, "Bend/Redmond, OR"                     , "Los Angeles, CA (Metropolitan Area)"  ,     751, 125.04
+2024, "Raleigh/Durham, NC"                   , "Washington, DC (Metropolitan Area)"   ,     255, 187.57
+2024, "Raleigh/Durham, NC"                   , "San Francisco, CA (Metropolitan Area)",    2400, 250.41
+2024, "Raleigh/Durham, NC"                   , "Tampa, FL (Metropolitan Area)"        ,     587, 176.53
+2024, "Richmond, VA"                         , "Tampa, FL (Metropolitan Area)"        ,     731,  81.29
+2024, "Reno, NV"                             , "San Francisco, CA (Metropolitan Area)",     192, 182.7
+2024, "Rochester, NY"                        , "Washington, DC (Metropolitan Area)"   ,     296, 200.99
+2024, "Rochester, NY"                        , "Tampa, FL (Metropolitan Area)"        ,    1079, 227.15
+2024, "Salt Lake City, UT"                   , "Washington, DC (Metropolitan Area)"   ,    1865, 349.2
+2024, "Salt Lake City, UT"                   , "San Francisco, CA (Metropolitan Area)",     599, 171.02
+2024, "Salt Lake City, UT"                   , "Tampa, FL (Metropolitan Area)"        ,    1888, 343.86
+2024, "Savannah, GA"                         , "Washington, DC (Metropolitan Area)"   ,     549, 190.99
+2024, "Sarasota/Bradenton, FL"               , "Washington, DC (Metropolitan Area)"   ,     880, 214.99
+2024, "Syracuse, NY"                         , "Washington, DC (Metropolitan Area)"   ,     298, 182.81
+2024, "Syracuse, NY"                         , "Tampa, FL (Metropolitan Area)"        ,    1111, 136.11
+2024, "Knoxville, TN"                        , "Washington, DC (Metropolitan Area)"   ,     464, 349.01
+2024, "Knoxville, TN"                        , "New York City, NY (Metropolitan Area)",     665, 183.51
+2024, "Knoxville, TN"                        , "Miami, FL (Metropolitan Area)"        ,     724, 148.69
+2024, "Knoxville, TN"                        , "Tampa, FL (Metropolitan Area)"        ,     550,  95.65

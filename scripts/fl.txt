@@ -1,0 +1,28 @@
+27
+Albany, NY|Chicago, IL|723|202
+Albany, NY|Miami, FL (Metropolitan Area)|1225|204
+Albany, NY|Tampa, FL (Metropolitan Area)|1138|124
+Albany, NY|Washington, DC (Metropolitan Area)|325|213
+Albuquerque, NM|Chicago, IL|1121|253
+Albuquerque, NM|Dallas/Fort Worth, TX|580|199
+Albuquerque, NM|Houston, TX|759|234
+Albuquerque, NM|Los Angeles, CA (Metropolitan Area)|677|209
+Albuquerque, NM|New York City, NY (Metropolitan Area)|1861|388
+Amarillo, TX|Dallas/Fort Worth, TX|323|169
+Appleton, WI|Phoenix, AZ|1463|168
+Asheville, NC|Miami, FL (Metropolitan Area)|677|107
+Asheville, NC|New York City, NY (Metropolitan Area)|617|168
+Aspen, CO|Los Angeles, CA (Metropolitan Area)|737|395
+Aspen, CO|New York City, NY (Metropolitan Area)|1750|681
+Atlanta, GA (Metropolitan Area)|Boston, MA (Metropolitan Area)|952|254
+Atlanta, GA (Metropolitan Area)|Chicago, IL|606|170
+Atlanta, GA (Metropolitan Area)|Cleveland, OH (Metropolitan Area)|554|259
+Atlanta, GA (Metropolitan Area)|Columbus, OH|447|218
+Atlanta, GA (Metropolitan Area)|Dallas/Fort Worth, TX|731|218
+Atlantic City, NJ|Miami, FL (Metropolitan Area)|998|104
+Austin, TX|Boston, MA (Metropolitan Area)|1698|239
+Austin, TX|Chicago, IL|977|206
+Austin, TX|Columbus, OH|1073|259
+Austin, TX|Dallas/Fort Worth, TX|190|196
+Austin, TX|Los Angeles, CA (Metropolitan Area)|1242|234
+Bend/Redmond, OR|Los Angeles, CA (Metropolitan Area)|751|125

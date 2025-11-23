@@ -1,25 +1,28 @@
-24
-Dallas|Austin|98|47
-Austin|Houston|95|39
-Dallas|Houston|101|51
-Austin|Chicago|144|192
-Chicago|New York|130|120
-New York|Boston|85|62
-Boston|Toronto|110|90
-Toronto|Chicago|125|95
-Dallas|Denver|160|120
-Denver|San Francisco|210|160
-San Francisco|Los Angeles|90|70
-Los Angeles|Las Vegas|75|55
-Las Vegas|Denver|140|95
-Houston|New Orleans|80|65
-New Orleans|Atlanta|95|70
-Atlanta|Miami|120|100
-Miami|New York|180|160
-Chicago|Seattle|220|200
-Seattle|San Francisco|150|125
-Austin|Phoenix|170|150
-Phoenix|Los Angeles|95|70
-Dallas|Mexico City|240|170
-Mexico City|Los Angeles|230|195
-Houston|Mexico City|200|160
+27
+Albany, NY|Chicago, IL|723|202
+Albany, NY|Miami, FL (Metropolitan Area)|1225|204
+Albany, NY|Tampa, FL (Metropolitan Area)|1138|124
+Albany, NY|Washington, DC (Metropolitan Area)|325|213
+Albuquerque, NM|Chicago, IL|1121|253
+Albuquerque, NM|Dallas/Fort Worth, TX|580|199
+Albuquerque, NM|Houston, TX|759|234
+Albuquerque, NM|Los Angeles, CA (Metropolitan Area)|677|209
+Albuquerque, NM|New York City, NY (Metropolitan Area)|1861|388
+Amarillo, TX|Dallas/Fort Worth, TX|323|169
+Appleton, WI|Phoenix, AZ|1463|168
+Asheville, NC|Miami, FL (Metropolitan Area)|677|107
+Asheville, NC|New York City, NY (Metropolitan Area)|617|168
+Aspen, CO|Los Angeles, CA (Metropolitan Area)|737|395
+Aspen, CO|New York City, NY (Metropolitan Area)|1750|681
+Atlanta, GA (Metropolitan Area)|Boston, MA (Metropolitan Area)|952|254
+Atlanta, GA (Metropolitan Area)|Chicago, IL|606|170
+Atlanta, GA (Metropolitan Area)|Cleveland, OH (Metropolitan Area)|554|259
+Atlanta, GA (Metropolitan Area)|Columbus, OH|447|218
+Atlanta, GA (Metropolitan Area)|Dallas/Fort Worth, TX|731|218
+Atlantic City, NJ|Miami, FL (Metropolitan Area)|998|104
+Austin, TX|Boston, MA (Metropolitan Area)|1698|239
+Austin, TX|Chicago, IL|977|206
+Austin, TX|Columbus, OH|1073|259
+Austin, TX|Dallas/Fort Worth, TX|190|196
+Austin, TX|Los Angeles, CA (Metropolitan Area)|1242|234
+Bend/Redmond, OR|Los Angeles, CA (Metropolitan Area)|751|125

@@ -1,4 +1,4 @@
 3
-Dallas|las Vegas|T
-Chicago|Denver|C
-Austin|Seattle|T
+Aspen, CO|Dallas/Fort Worth, TX|T
+Austin, TX|Chicago, IL|C
+Chicago, IL|Atlanta, GA (Metropolitan Area)|T

@@ -8,14 +8,13 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-
+import main.domain.Metric;
+import main.domain.Path;
+import main.domain.Request;
 import main.graph.FlightGraph;
 import main.graph.GraphBuilder;
 import main.graph.GraphBuilder.Row;
 import main.io.RequestParser;
-import main.domain.Metric;
-import main.domain.Path;
-import main.domain.Request;
 import main.search.pathFinder;
 import main.sort.HeapSort;
 
@@ -25,11 +24,11 @@ public class Main {
     public static final String REQUSTED_PATH     = "src/main/data/RequestedPath.txt";
 
     public static void main(String[] args) throws IOException {
-        // 1) Load flight rows and build graph
+        // Load flight rows and build graph
         List<Row> rows = loadRows();
         FlightGraph g = GraphBuilder.build(rows);
 
-        // 2) Parse requested flights
+        // Parse requested flights
         List<Request> requests = RequestParser.parse(REQUSTED_PATH);
 
         System.out.println("=== GRAPH CHECK ===");
@@ -44,7 +43,7 @@ public class Main {
                     + " (" + r.getMetric() + ")");
         }
 
-        // 3) Process each request
+        // Process each request
         for (int i = 0; i < requests.size(); i++) {
             Request r = requests.get(i);
             Metric m = r.getMetric();
@@ -65,7 +64,7 @@ public class Main {
                 continue;
             }
 
-            // 4) Choose comparator based on Metric
+            // Choose comparator based on Metric
             Comparator<Path> cmp;
             if (m == Metric.TIME) {
                 cmp = Comparator
@@ -77,10 +76,10 @@ public class Main {
                         .thenComparingInt(Path::getTotalMinutes);
             }
 
-            // 5) Sort with your HeapSort
+            // Sort with your HeapSort
             HeapSort.sort(allPaths, cmp);
 
-            // 6) Print top 3
+            // Print top 3
             int limit = Math.min(3, allPaths.size());
             for (int j = 0; j < limit; j++) {
                 Path p = allPaths.get(j);
